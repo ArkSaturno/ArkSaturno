@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Victor
 
 ## I'm a student at Unicarioca & an aspiring Full Stack developer
-<div  align="center">
+
 ![ArkSaturno's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkSaturno&show_icons=true&theme=merko&border_radius=12&bg_color=135,222223,000000&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkSaturno&hide_border=true&theme=merko)](https://git.io/streak-stats)
-</div>
+
 
 ## Currently working on
 - Udemy course in Full Stack Web Development 🧮
